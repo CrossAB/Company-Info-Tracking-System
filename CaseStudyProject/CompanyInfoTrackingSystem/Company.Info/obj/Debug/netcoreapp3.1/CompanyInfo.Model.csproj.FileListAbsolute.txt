@@ -1,0 +1,9 @@
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\bin\Debug\netcoreapp3.1\CompanyInfo.Model.deps.json
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\bin\Debug\netcoreapp3.1\CompanyInfo.Model.dll
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\bin\Debug\netcoreapp3.1\CompanyInfo.Model.pdb
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\obj\Debug\netcoreapp3.1\CompanyInfo.Model.csprojAssemblyReference.cache
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\obj\Debug\netcoreapp3.1\CompanyInfo.Model.AssemblyInfoInputs.cache
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\obj\Debug\netcoreapp3.1\CompanyInfo.Model.AssemblyInfo.cs
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\obj\Debug\netcoreapp3.1\CompanyInfo.Model.csproj.CoreCompileInputs.cache
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\obj\Debug\netcoreapp3.1\CompanyInfo.Model.dll
+D:\capgemini\CaseStudyProject\CompanyInfoTrackingSystem\Company.Info\obj\Debug\netcoreapp3.1\CompanyInfo.Model.pdb
